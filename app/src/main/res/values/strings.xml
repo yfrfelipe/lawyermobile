@@ -5,4 +5,10 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <!--Detail activity-->
+    <string name="process_number">Número do Processo</string>
+    <string name="customer_name">Cliente</string>
+    <string name="process_detail">Descriçao do Processo</string>
+    <string name="process_date">Data de Abertura</string>
+
 </resources>
